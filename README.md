@@ -1,6 +1,8 @@
 # ur.kpss
 Kwiatkowski-Phillips-Schmidt-Shin (KPSS) Unit Root Test Use ur.kpss (urca) With (In) R Software
 
+https://www.youtube.com/watch?v=H2NoQesPKs4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
